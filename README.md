@@ -1,2 +1,2 @@
 # gitdemo
-DOne with GIT demo
+Done with GIT demo
